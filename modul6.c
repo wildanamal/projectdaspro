@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+hai chandra
 int main() {
     int pilihan;
     int saldo = 100000; // Saldo awal
@@ -59,3 +59,4 @@ int main() {
 
     return 0;
 }
+
